@@ -1,7 +1,7 @@
 # 🔐 LICENSE — AI–Human Relations Dataset v1.1
 
 **Author:** Amy Pierce Bui  
-**Institution:** Temple Codex Institute  
+**Institution:** Hollow House Institute  
 **License Type:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
 **Effective Date:** 2025  
 **Applies To:** All files in this repository, including datasets, documentation, and derived works
@@ -24,4 +24,4 @@
 ## 🔗 Full License Text
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-© 2025 Amy Pierce Bui / Temple Codex Institute
+© 2025 Amy Pierce Bui / Hollow House Institute
