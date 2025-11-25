@@ -1,4 +1,5 @@
-```Hollow_House_Institute/
+
+#Hollow_House_Institute/
 │
 ├── README.md              # Main overview + mission + links
 ├── LICENSE.md             # CC BY-NC-SA 4.0
@@ -18,30 +19,6 @@
 └── assets/
     └── logos/
 ```
-
-This repo does **not** need datasets — those go in the separate dataset repos.
-This repo is your **global home base**.
-
----
-
-# 🎯 **Your Main README Should:**
-
-* Define *what Hollow House Institute is*
-* Specify the *mission*
-* Link to your other repos
-* Point researchers to onboarding docs
-* Provide citation + license
-* Use SEO keywords for AI, psychology, and data research
-* Look professional and lightweight on mobile (your screenshots show mobile view)
-
----
-
-# ✅ **Here is your final Main README.md**
-
-Copy/paste directly into your repo.
-
----
-
 # **Hollow House Institute**
 
 *A professional research ecosystem for relational psychology, human–AI interaction, and affective computing.*
