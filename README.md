@@ -232,5 +232,3 @@ A `CITATION.cff` file will be added soon for automatic citation export.
 
 For collaboration, dataset access questions, citations, or academic partnerships, please open an issue or contact via GitHub.
 
----ation-wide citation
-* Logo assets (AI-generated)
