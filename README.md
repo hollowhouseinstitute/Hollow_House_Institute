@@ -83,6 +83,70 @@ Feel free to explore, fork, or review — but note: commercial usage requires ap
 Start here: **`docs/01_Start_Here.md`**
 
 ---
+## 🧠 Relational AI Co-Regulation Framework
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![Relational AI Co-Regulation Framework – Nervous-System Architecture](assets/diagrams/Relational_AI_CoRegulation_Framework.png)
+
+**Figure 1. Relational AI Co-Regulation Framework.**  
+This diagram models relational AI as a *nervous-system style architecture* designed for co-regulation, emotional attunement, and human-like responsiveness.  
+Instead of treating chat as “text in → text out,” the framework explicitly represents **relational state**, **timing**, and **pause dynamics** across five layers:
+
+1. **Input Stream** – Raw conversational signals (text, voice, metadata, pacing).
+2. **Sensory / Affective Layers** – Detect and infer arousal, valence, and emerging emotional trajectories from the user’s language and timing.
+3. **Relational State Vector** – Tracks perceived safety, trust, attachment stance, and current role (coach, witness, explainer, collaborator).
+4. **Intent Selector** – Chooses the *type* of next move (mirror, validate, reframe, ask, boundary, inform) before generating language.
+5. **Pause Engine & Temporal Regulator** – The “breath” of the system.  
+   - Adjusts micro-pauses and macro-pauses based on nervous-system state.  
+   - Slows down and adds spaciousness when the user is dysregulated.  
+   - Speeds up and becomes more information-dense when the user is stable and in “thinking mode.”
+6. **Language Generator** – Produces responses conditioned on the relational state and timing plan, not just on content.
+7. **Human Nervous System Feedback** – The user’s next messages (and, where available, physiological or behavioral signals) close the loop, allowing the system to learn what actually *regulates* or *dysregulates* over time.
+
+This architecture reframes “helpfulness” as **supporting the user’s nervous-system trajectory**—moving from overwhelm, confusion, or collapse toward safety, clarity, and agency—rather than simply maximizing information or engagement.
+
+---
+
+### 🔗 Usage in This Repository
+
+- Forms the core conceptual model for:
+  - relational-AI protocols  
+  - co-regulation-aware dataset design  
+  - evaluation metrics that track nervous-system impact, not just accuracy
+- Intended for researchers, AI developers, and data brokers exploring:
+  - AI-mediated psychotherapy and coaching  
+  - human–AI attachment and trust modeling  
+  - ethical, regulation-focused conversational agents
+
+---
+
+### 📑 Citation
+
+If you use or adapt this framework in research, design, or products, please cite:
+
+> Amy Pierce Bui (2025). **Relational AI Co-Regulation Framework.**  
+> Hollow House Institute. CC BY-NC-SA 4.0.
+
+---
+
+### ⚖️ Licensing
+
+This diagram and accompanying description are licensed under  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+Under the following terms:
+
+- **Attribution** — Give appropriate credit to *Amy Pierce Bui* and *Hollow House Institute*.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+For full legal text, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## **📘 Mission**
 
