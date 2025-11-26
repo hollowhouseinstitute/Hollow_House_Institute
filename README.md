@@ -1,24 +1,3 @@
-
-#Hollow_House_Institute/
-│
-├── README.md              # Main overview + mission + links
-├── LICENSE.md             # CC BY-NC-SA 4.0
-├── LICENSE.txt
-│
-├── docs/
-│   ├── 01_Start_Here.md
-│   ├── mission.md
-│   ├── methodology.md
-│   ├── institute_structure.md
-│   ├── dataset_overview.md
-│   └── ethics_and_privacy.md
-│
-├── site/
-│   └── index.md           # For GitHub Pages site (optional)
-│
-└── assets/
-    └── logos/
-```
 # **Hollow House Institute**
 
 *A professional research ecosystem for relational psychology, human–AI interaction, and affective computing.*
