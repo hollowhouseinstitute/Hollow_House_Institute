@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Hollow House Institute: AI–Human Relations & Nervous-System Relational Frameworks"
+version: "1.0.0"
+date-released: "2025-01-01"
+repository-code: "https://github.com/hollowhouseinstitute/Hollow_House_Docs_Site"
+license: "CC-BY-NC-SA-4.0"
+
+authors:
+  - family-names: "Pierce Bui"
+    given-names: "Amy"
+    affiliation: "Hollow House Institute"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+abstract: >
+  This repository contains the core documentation, licensing standards,
+  and dataset access framework for Hollow House Institute.
+  The work focuses on AI–human relational dynamics, nervous-system
+  regulation models, trauma-informed interaction systems,
+  and ethical AI research governance.
+
+keywords:
+  - AI-human interaction
+  - relational intelligence
+  - nervous system regulation
+  - trauma-informed AI
+  - somatic psychology
+  - dataset licensing
+  - ethical AI
+  - human-computer interaction
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Pierce Bui"
+      given-names: "Amy"
+  title: "Hollow House Institute: AI–Human Relations & Nervous-System Relational Frameworks"
+  year: 2025
+  repository-code: "https://github.com/hollowhouseinstitute/Hollow_House_Docs_Site"
+  license: "CC-BY-NC-SA-4.0"
