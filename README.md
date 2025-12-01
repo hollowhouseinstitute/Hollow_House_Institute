@@ -6,11 +6,6 @@ Founded by Amy Pierce Bui (aka “Ophiuchus / Fire-Snake lineage”), Hollow Hou
 ---
 ---
 
-## 3. Small patch to your existing `README.md`
-
-Somewhere near the top where you talk about the overall structure, add a tiny “Quick Links” block like this:
-
-```md
 ## 📚 Documentation & Quick Links
 
 - 🔐 [Licensing Overview](docs/licensing.md)  
