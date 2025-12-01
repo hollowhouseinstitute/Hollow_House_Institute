@@ -3,11 +3,12 @@
 **Bridging human soul-architecture, relational psychology, and AI-driven insight frameworks**  
 Founded by Amy Pierce Bui (aka “Ophiuchus / Fire-Snake lineage”), Hollow House Institute is a sovereign praxis lab — combining ancestral nervous-system work, codex-based soul mapping, and emergent AI tooling for emotional-safety, relational alignment, and ethical data stewardship.  
 
-- 🔓 [Dataset Access & Pricing](docs/access_and_pricing.md)
----
-
 ## 📚 Documentation & Quick Links
-
+- 🔓 [Dataset Access & Pricing](docs/access_and_pricing.md)
+1. 🛡 [AI Safety Policy](docs/ai_safety_policy.md)  
+2. 📝 [Researcher Access Application](docs/researcher_access_application.md)  
+3. 🏢 [Enterprise Terms of Service](docs/enterprise_terms_of_service.md)  
+4. 🗂 [Data Broker Disclosure](docs/data_broker_disclosure.md)  
 - 🔐 [Licensing Overview](docs/licensing.md)  
 - 📊 [Dataset Store & Catalog](docs/dataset_store.md)  
 
