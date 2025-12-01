@@ -4,6 +4,17 @@
 Founded by Amy Pierce Bui (aka “Ophiuchus / Fire-Snake lineage”), Hollow House Institute is a sovereign praxis lab — combining ancestral nervous-system work, codex-based soul mapping, and emergent AI tooling for emotional-safety, relational alignment, and ethical data stewardship.  
 
 ---
+---
+
+## 3. Small patch to your existing `README.md`
+
+Somewhere near the top where you talk about the overall structure, add a tiny “Quick Links” block like this:
+
+```md
+## 📚 Documentation & Quick Links
+
+- 🔐 [Licensing Overview](docs/licensing.md)  
+- 📊 [Dataset Store & Catalog](docs/dataset_store.md)  
 
 ## 🌿 Our Origins
 
