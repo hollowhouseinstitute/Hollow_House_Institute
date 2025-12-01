@@ -1,0 +1,91 @@
+# 📜 Hollow House Institute — Dataset License
+
+**Author:** Amy Pierce Bui  
+**Institution:** Hollow House Institute  
+**Default License:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)  
+**Effective Date:** 2025  
+
+---
+
+## 1. License Grant
+
+This dataset is licensed under:
+
+> **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+You are granted the right to:
+
+- Share the dataset in original or modified form
+- Adapt, clean, label, tokenize, or embed the dataset
+- Use the dataset for **non-commercial research, education, and nonprofit work**
+
+Under these conditions:
+
+- ✅ Attribution is required
+- ✅ Derivatives must retain this same license
+- ❌ Commercial use is prohibited without a separate contract
+
+---
+
+## 2. Attribution Requirement
+
+All publications, models, benchmarks, or derivative works must cite:
+
+> “Dataset provided by Hollow House Institute, authored by Amy Pierce Bui, licensed under CC BY-NC-SA 4.0.”
+
+If used in an AI model publication, attribution must appear:
+
+- In the **Methods / Data section**
+- In **model cards or system documentation**
+- In **product disclosures** (if demonstrated publicly)
+
+---
+
+## 3. Commercial Use Prohibition
+
+You may NOT:
+
+- Sell this dataset
+- Bundle it into a paid product or API
+- Train models that are sold or licensed
+- Resell annotations or embeddings derived from this data
+
+Commercial licensing requires a **Tier 2 or Tier 3 contract** (see `docs/access_and_pricing.md`).
+
+---
+
+## 4. Ethical Use Enforcement
+
+Use of this dataset for any of the following is STRICTLY PROHIBITED:
+
+- Psychological manipulation systems
+- Surveillance profiling
+- Coercive persuasion tooling
+- Political microtargeting
+- Abuse optimization or harassment engines
+
+Violation results in:
+
+- Immediate license termination
+- Public disclosure of misuse
+- Permanent research ban
+
+---
+
+## 5. Warranty & Liability
+
+This dataset is provided:
+
+> **“As-Is”, without warranty of any kind.**
+
+Hollow House Institute assumes no liability for:
+
+- Model behavior
+- Research outcomes
+- Psychological interpretations
+- Downstream deployments
+
+---
+
+© 2025 Amy Pierce Bui / Hollow House Institute  
+Licensed under CC BY-NC-SA 4.0
