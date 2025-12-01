@@ -3,6 +3,41 @@
 **Bridging human soul-architecture, relational psychology, and AI-driven insight frameworks**  
 Founded by Amy Pierce Bui (aka “Ophiuchus / Fire-Snake lineage”), Hollow House Institute is a sovereign praxis lab — combining ancestral nervous-system work, codex-based soul mapping, and emergent AI tooling for emotional-safety, relational alignment, and ethical data stewardship.  
 
+---
+
+## 🏛 Governance, Safety & Compliance
+
+Hollow House Institute operates under a full research-grade governance, ethics, and enterprise compliance framework. All datasets, models, and derivative systems are governed by the following policies:
+
+### 🔐 Core Governance
+- 🔐 [Licensing Overview](docs/licensing.md)  
+- 🔓 [Dataset Access & Pricing](docs/access_and_pricing.md)  
+- 📊 [Dataset Store & Catalog](docs/dataset_store.md)
+
+### 🛡 Safety, Ethics & Legal Enforcement
+1. 🛡 [AI Safety Policy](docs/ai_safety_policy.md)  
+2. 📝 [Researcher Access Application](docs/researcher_access_application.md)  
+3. 🏢 [Enterprise Terms of Service](docs/enterprise_terms_of_service.md)  
+4. 🗂 [Data Broker Disclosure](docs/data_broker_disclosure.md)
+
+### 📜 Dataset & Privacy Protections
+- 📜 Dataset License (`DATASET_LICENSE.md`)
+- 🧠 [Ethics & Use Limits](docs/ethics_and_limits.md)
+- 🕶 [Anonymization Protocol](docs/anonymization_protocol.md)
+
+### 📘 Transparency & Reporting
+- 🧠 [Model Card Template](docs/model_card_template.md)
+- 📊 [Dataset Card Template](docs/dataset_card_template.md)
+- 📈 [Investor Dataset Summary](docs/investor_dataset_summary.md)
+
+All Hollow House Institute research, datasets, and AI systems are governed by
+**trauma-informed ethics, nervous-system safety principles, and strict non-exploitation policy**.
+
+Unauthorized commercial use, surveillance deployment, or coercive application
+results in **immediate license termination and enforcement**.
+
+---
+
 ## 📚 Documentation & Quick Links
 🔓 [Dataset Access & Pricing](docs/access_and_pricing.md).
 🛡 [AI Safety Policy](docs/ai_safety_policy.md)  
