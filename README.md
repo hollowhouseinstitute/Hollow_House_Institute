@@ -39,7 +39,7 @@ results in **immediate license termination and enforcement**.
 ---
 
 ## 📚 Documentation & Quick Links
-🔓 [Dataset Access & Pricing](docs/COMING_SOON.md) — coming soon
+🔓 [Dataset Access & Pricing](docs/COMING_SOON.md) — coming soon.
 🛡 [AI Safety Policy](docs/COMING_SOON.md) — coming soon
 📝 [Researcher Access Application](docs/COMING_SOON.md) — coming soon
 🏢 [Enterprise Terms of Service](docs/COMING_SOON.md) — coming soon
