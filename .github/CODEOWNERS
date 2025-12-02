@@ -1,0 +1,18 @@
+# Code Owners for Hollow House Institute
+# These owners will be automatically requested for review when someone opens a pull request.
+
+# Amy Pierce Bui is the primary owner and founder of Hollow House Institute
+* @hollowhouseinstitute
+
+# Documentation
+/docs/ @hollowhouseinstitute
+/Docs/ @hollowhouseinstitute
+*.md @hollowhouseinstitute
+
+# Licensing and legal
+LICENSE* @hollowhouseinstitute
+CITATION.cff @hollowhouseinstitute
+dataset_license @hollowhouseinstitute
+
+# Core repository configuration
+/.github/ @hollowhouseinstitute
