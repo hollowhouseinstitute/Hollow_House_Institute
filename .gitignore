@@ -1,0 +1,244 @@
+# Hollow House Institute - Git Ignore File
+
+# === Operating System Files ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# === IDE and Editor Files ===
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+*.mo
+*.pot
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === R ===
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# === Data Files (sensitive) ===
+# Do NOT commit sensitive datasets
+*.csv.secret
+*.json.secret
+*.pkl.secret
+private_data/
+sensitive/
+personal_data/
+
+# === Temporary Files ===
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+*.cache
+
+# === Compiled Files ===
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.pyc
+
+# === Archives ===
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# === Secrets and Credentials ===
+# NEVER commit secrets!
+*.key
+*.pem
+*.p12
+*.pfx
+*.env
+.env.*
+secrets/
+credentials/
+config/secrets.yml
+.secrets/
+
+# === Documentation Build ===
+_build/
+_static/
+_templates/
+site/
+docs/_build/
+
+# === Test Coverage ===
+coverage/
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# === Package Manager Locks (optional - consider committing for reproducibility) ===
+# Uncomment if you want to ignore lock files
+# package-lock.json
+# yarn.lock
+# Pipfile.lock
+# poetry.lock
+
+# === AI/ML Specific ===
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.pth
+*.weights
+models/
+checkpoints/
+wandb/
+mlruns/
+
+# === Custom Hollow House Institute ===
+# Add any project-specific ignore patterns here
+/tmp/
+scratch/
+drafts/
+_drafts/
+notes/
+_notes/
+TODO.md
+.todo
+
+# === GitHub Pages ===
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# === Backup Files ===
+*.backup
+*.old
+*.orig
