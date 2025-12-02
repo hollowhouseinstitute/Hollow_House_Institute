@@ -65,7 +65,6 @@ Sessionx.vim
 *~
 
 # Emacs
-*~
 \#*\#
 /.emacs.desktop
 /.emacs.desktop.lock
@@ -98,7 +97,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-.env
 .venv
 env/
 venv/
@@ -155,7 +153,6 @@ personal_data/
 *.bak
 *.swp
 *.swo
-*~
 *.log
 *.cache
 
@@ -200,7 +197,6 @@ docs/_build/
 # === Test Coverage ===
 coverage/
 *.cover
-.coverage
 .cache
 nosetests.xml
 coverage.xml
