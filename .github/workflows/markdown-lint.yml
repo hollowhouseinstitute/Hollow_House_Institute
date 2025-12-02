@@ -16,6 +16,8 @@ jobs:
   markdown-lint:
     name: Lint Markdown Files
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     
     steps:
       - name: Checkout code

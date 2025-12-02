@@ -16,6 +16,8 @@ jobs:
   link-checker:
     name: Check Links in Documentation
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     
     steps:
       - name: Checkout code
