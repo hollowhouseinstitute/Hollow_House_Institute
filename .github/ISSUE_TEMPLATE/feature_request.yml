@@ -1,0 +1,114 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+assignees:
+  - hollowhouseinstitute
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a feature! Please provide details about your idea to help us understand its value and feasibility.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Is your feature request related to a problem? Please describe.
+      placeholder: I'm always frustrated when...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you'd like to see.
+      placeholder: I would like to see...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions
+      description: Have you considered any alternative solutions or features?
+      placeholder: Alternatively, we could...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Feature Category
+      description: Which area does this feature relate to?
+      options:
+        - Documentation
+        - Dataset/Data Tools
+        - Framework/Methodology
+        - Ethical/Safety Policy
+        - Community/Collaboration
+        - Technical Infrastructure
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority Level
+      description: How important is this feature to you?
+      options:
+        - Critical - Blocking important work
+        - High - Significantly improves workflow
+        - Medium - Nice to have
+        - Low - Minor improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: Describe specific scenarios where this feature would be valuable.
+      placeholder: |
+        1. As a researcher, I would use this to...
+        2. When analyzing data, this would help by...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context, mockups, examples, or references about the feature request.
+      placeholder: Additional information, links, images...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: ethics
+    attributes:
+      label: Ethical Considerations
+      description: Please confirm you've considered the ethical implications.
+      options:
+        - label: This feature aligns with trauma-informed principles
+          required: true
+        - label: This feature respects privacy and consent
+          required: true
+        - label: This feature does not enable exploitation or harm
+          required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting.
+      options:
+        - label: I have searched for similar feature requests
+          required: true
+        - label: I have reviewed the documentation and roadmap
+          required: true
+        - label: This request respects our Code of Conduct
+          required: true

@@ -1,0 +1,39 @@
+name: Link Checker
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+      - 'Docs/**'
+  push:
+    branches:
+      - main
+  schedule:
+    # Run weekly on Mondays at 9am UTC
+    - cron: '0 9 * * 1'
+
+jobs:
+  link-checker:
+    name: Check Links in Documentation
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Check links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: |
+            --verbose
+            --no-progress
+            --exclude-loopback
+            --exclude-private
+            --exclude-mail
+            --max-redirects 5
+            --timeout 30
+            '**/*.md'
+            '**/*.html'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

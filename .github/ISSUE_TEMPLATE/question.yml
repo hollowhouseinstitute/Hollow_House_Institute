@@ -1,0 +1,102 @@
+name: ❓ Question
+description: Ask a question about the project
+title: "[Question]: "
+labels: ["question", "needs-triage"]
+assignees:
+  - hollowhouseinstitute
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your question! Please provide as much detail as possible to help us give you the best answer.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Question Category
+      description: What is your question about?
+      options:
+        - General/Getting Started
+        - Documentation/Usage
+        - Licensing/Legal
+        - Dataset Access
+        - Ethical Guidelines
+        - Technical Implementation
+        - Collaboration/Contributing
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Please ask your question clearly and concisely.
+      placeholder: I would like to know...
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Provide any relevant context that might help us answer your question.
+      placeholder: |
+        I'm working on...
+        I've already tried...
+        I'm looking at...
+    validations:
+      required: false
+
+  - type: textarea
+    id: research
+    attributes:
+      label: Research Done
+      description: What have you already tried or researched?
+      placeholder: |
+        - I've read the documentation at...
+        - I've searched for similar questions...
+        - I've looked at...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: Your Role
+      description: This helps us tailor our response to your needs.
+      options:
+        - Researcher
+        - Developer
+        - Student
+        - Therapist/Coach
+        - Corporate/Enterprise
+        - Data Scientist
+        - Other
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Any other details that might be helpful?
+      placeholder: Additional context...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting.
+      options:
+        - label: I have searched for similar questions
+          required: true
+        - label: I have reviewed the relevant documentation
+          required: true
+        - label: My question is clear and specific
+          required: true
+        - label: This question respects our Code of Conduct
+          required: true

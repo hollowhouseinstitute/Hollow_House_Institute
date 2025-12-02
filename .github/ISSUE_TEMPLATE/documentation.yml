@@ -1,0 +1,112 @@
+name: 📝 Documentation Issue
+description: Report an issue with documentation or suggest documentation improvements
+title: "[Docs]: "
+labels: ["documentation", "needs-triage"]
+assignees:
+  - hollowhouseinstitute
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve our documentation! Clear, accurate documentation is essential for our community.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Documentation Issue Type
+      description: What type of documentation issue is this?
+      options:
+        - Missing documentation
+        - Incorrect/outdated information
+        - Unclear/confusing explanation
+        - Typo or formatting issue
+        - Broken link
+        - Example needed
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Where is the documentation issue? (Provide file path, URL, or section name)
+      placeholder: |
+        File: docs/example.md
+        Section: "Getting Started"
+        URL: https://github.com/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: Issue Description
+      description: Describe the documentation issue in detail.
+      placeholder: The current documentation says... but it should say...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Improvement
+      description: If you have a specific suggestion for how to improve this documentation, please share it.
+      placeholder: |
+        I suggest we:
+        - Add a section about...
+        - Clarify that...
+        - Update the example to...
+    validations:
+      required: false
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Who is affected by this documentation issue? How does it impact them?
+      placeholder: |
+        This affects:
+        - New users trying to...
+        - Researchers looking for...
+        - Anyone trying to understand...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How urgent is this documentation issue?
+      options:
+        - Critical - Blocking users or contains serious errors
+        - High - Affects many users or important workflows
+        - Medium - Would improve clarity or completeness
+        - Low - Minor typo or formatting issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, or examples.
+      placeholder: Additional information...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting.
+      options:
+        - label: I have verified this is a documentation issue (not a code bug)
+          required: true
+        - label: I have searched for similar documentation issues
+          required: true
+        - label: I have provided the location of the documentation issue
+          required: true
+        - label: This issue respects our Code of Conduct
+          required: true

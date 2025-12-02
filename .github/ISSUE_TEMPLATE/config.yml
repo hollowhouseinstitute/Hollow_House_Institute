@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/hollowhouseinstitute/Hollow_House_Institute/blob/main/README.md
+    about: Read our comprehensive documentation and guides
+  - name: 💬 Community Discussion
+    url: https://github.com/hollowhouseinstitute/Hollow_House_Institute/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 🔐 Security Vulnerability
+    url: https://github.com/hollowhouseinstitute/Hollow_House_Institute/security/advisories/new
+    about: Report a security vulnerability privately (DO NOT use public issues)
