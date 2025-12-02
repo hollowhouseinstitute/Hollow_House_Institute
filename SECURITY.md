@@ -73,7 +73,7 @@ If you discover a security vulnerability, please help us protect our community b
 
 Hollow House Institute follows strict privacy and data protection principles:
 
-- **Anonymization:** All personal data in research datasets is anonymized per our [Anonymization Protocol](Docs/Anonymization%20Protocol.md)
+- **Anonymization:** All personal data in research datasets is anonymized per our [Anonymization Protocol](Docs/Anonymization%20Protocol.md) (see `Docs/Anonymization Protocol.md`)
 - **Consent:** We obtain explicit consent for data collection and use
 - **Transparency:** We maintain clear documentation of data sources and processing
 - **Non-exploitation:** We prohibit surveillance, coercive applications, and exploitative use
@@ -138,7 +138,7 @@ This security policy is reviewed and updated regularly to ensure it meets curren
 ## 📚 Related Documentation
 
 - [AI Safety Policy](Docs/ai_safety_policy.md)
-- [Anonymization Protocol](Docs/Anonymization%20Protocol.md)
+- [Anonymization Protocol](Docs/Anonymization%20Protocol.md) (see `Docs/Anonymization Protocol.md`)
 - [Ethics & Use Limits](Docs/ethics_limits.md)
 - [Data Broker Disclosure](Docs/data_broker_disclosure.md)
 
