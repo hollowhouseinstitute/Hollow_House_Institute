@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Relational AI Co-Regulation Framework - Placeholder</title>
+  <desc>Editable placeholder diagram for the Relational AI Co-Regulation Framework. This should be replaced with the final diagram when available.</desc>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="780" height="580" fill="none" stroke="#6c757d" stroke-width="2" stroke-dasharray="10,5"/>
+  
+  <!-- Title -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#212529">
+    Relational AI Co-Regulation Framework
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6c757d">
+    [PLACEHOLDER DIAGRAM]
+  </text>
+  
+  <!-- Main placeholder box -->
+  <rect x="100" y="130" width="600" height="380" fill="#e9ecef" stroke="#495057" stroke-width="3" rx="15"/>
+  
+  <!-- Placeholder content group 1 - Human -->
+  <g id="human-component">
+    <circle cx="250" cy="240" r="60" fill="#d1e7dd" stroke="#0f5132" stroke-width="2"/>
+    <text x="250" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0f5132">
+      Human
+    </text>
+    <text x="250" y="255" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#0f5132">
+      Participant
+    </text>
+  </g>
+  
+  <!-- Placeholder content group 2 - AI -->
+  <g id="ai-component">
+    <circle cx="550" cy="240" r="60" fill="#cfe2ff" stroke="#084298" stroke-width="2"/>
+    <text x="550" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#084298">
+      AI
+    </text>
+    <text x="550" y="255" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#084298">
+      System
+    </text>
+  </g>
+  
+  <!-- Bidirectional arrows -->
+  <g id="interaction-arrows">
+    <!-- Arrow from Human to AI -->
+    <defs>
+      <marker id="arrowhead-right" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+        <polygon points="0 0, 10 3, 0 6" fill="#495057"/>
+      </marker>
+      <marker id="arrowhead-left" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto">
+        <polygon points="10 0, 0 3, 10 6" fill="#495057"/>
+      </marker>
+    </defs>
+    
+    <line x1="310" y1="220" x2="490" y2="220" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead-right)"/>
+    <text x="400" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+      Input/Request
+    </text>
+    
+    <line x1="490" y1="260" x2="310" y2="260" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead-left)"/>
+    <text x="400" y="280" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+      Response/Support
+    </text>
+  </g>
+  
+  <!-- Co-regulation elements -->
+  <g id="coregulation-elements">
+    <ellipse cx="400" cy="240" rx="90" ry="40" fill="none" stroke="#fd7e14" stroke-width="3" stroke-dasharray="5,5"/>
+    <text x="400" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#fd7e14">
+      Co-Regulation Space
+    </text>
+  </g>
+  
+  <!-- Framework principles -->
+  <g id="principles">
+    <text x="150" y="390" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • Trauma-Informed
+    </text>
+    <text x="150" y="410" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • Ethical Boundaries
+    </text>
+    <text x="150" y="430" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • User Autonomy
+    </text>
+    
+    <text x="450" y="390" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • Emotional Attunement
+    </text>
+    <text x="450" y="410" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • Adaptive Responses
+    </text>
+    <text x="450" y="430" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+      • Safety First
+    </text>
+  </g>
+  
+  <!-- Footer note -->
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle" fill="#6c757d">
+    This is an editable placeholder. Replace with final framework diagram.
+  </text>
+  
+  <text x="400" y="565" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
+    © 2025 Hollow House Institute - Draft Version
+  </text>
+</svg>
