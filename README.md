@@ -10,25 +10,25 @@ Founded by Amy Pierce Bui (aka “Ophiuchus / Fire-Snake lineage”), Hollow Hou
 Hollow House Institute operates under a full research-grade governance, ethics, and enterprise compliance framework. All datasets, models, and derivative systems are governed by the following policies:
 
 ### 🔐 Core Governance
-- 🔐 [Licensing Overview](docs/licensing.md)  
-- 🔓 [Dataset Access & Pricing](docs/access_and_pricing.md)  
-- 📊 [Dataset Store & Catalog](docs/dataset_store.md)
+- 🔐 [Licensing Overview](docs/COMING_SOON.md) — coming soon
+- 🔓 [Dataset Access & Pricing](docs/COMING_SOON.md) — coming soon
+- 📊 [Dataset Store & Catalog](docs/COMING_SOON.md) — coming soon
 
 ### 🛡 Safety, Ethics & Legal Enforcement
-1. 🛡 [AI Safety Policy](docs/ai_safety_policy.md)  
-2. 📝 [Researcher Access Application](docs/researcher_access_application.md)  
-3. 🏢 [Enterprise Terms of Service](docs/enterprise_terms_of_service.md)  
-4. 🗂 [Data Broker Disclosure](docs/data_broker_disclosure.md)
+1. 🛡 [AI Safety Policy](docs/COMING_SOON.md) — coming soon
+2. 📝 [Researcher Access Application](docs/COMING_SOON.md) — coming soon
+3. 🏢 [Enterprise Terms of Service](docs/COMING_SOON.md) — coming soon
+4. 🗂 [Data Broker Disclosure](docs/COMING_SOON.md) — coming soon
 
 ### 📜 Dataset & Privacy Protections
 - 📜 Dataset License (`DATASET_LICENSE.md`)
-- 🧠 [Ethics & Use Limits](docs/ethics_and_limits.md)
-- 🕶 [Anonymization Protocol](docs/anonymization_protocol.md)
+- 🧠 [Ethics & Use Limits](docs/COMING_SOON.md) — coming soon
+- 🕶 [Anonymization Protocol](docs/COMING_SOON.md) — coming soon
 
 ### 📘 Transparency & Reporting
-- 🧠 [Model Card Template](docs/model_card_template.md)
-- 📊 [Dataset Card Template](docs/dataset_card_template.md)
-- 📈 [Investor Dataset Summary](docs/investor_dataset_summary.md)
+- 🧠 [Model Card Template](docs/COMING_SOON.md) — coming soon
+- 📊 [Dataset Card Template](docs/COMING_SOON.md) — coming soon
+- 📈 [Investor Dataset Summary](docs/COMING_SOON.md) — coming soon
 
 All Hollow House Institute research, datasets, and AI systems are governed by
 **trauma-informed ethics, nervous-system safety principles, and strict non-exploitation policy**.
@@ -39,13 +39,13 @@ results in **immediate license termination and enforcement**.
 ---
 
 ## 📚 Documentation & Quick Links
-🔓 [Dataset Access & Pricing](docs/access_and_pricing.md).
-🛡 [AI Safety Policy](docs/ai_safety_policy.md)  
-📝 [Researcher Access Application](docs/researcher_access_application.md)  
-🏢 [Enterprise Terms of Service](docs/enterprise_terms_of_service.md)  
-🗂 [Data Broker Disclosure](docs/data_broker_disclosure.md)  
-- 🔐 [Licensing Overview](docs/licensing.md)  
-- 📊 [Dataset Store & Catalog](docs/dataset_store.md)  
+🔓 [Dataset Access & Pricing](docs/COMING_SOON.md) — coming soon
+🛡 [AI Safety Policy](docs/COMING_SOON.md) — coming soon
+📝 [Researcher Access Application](docs/COMING_SOON.md) — coming soon
+🏢 [Enterprise Terms of Service](docs/COMING_SOON.md) — coming soon
+🗂 [Data Broker Disclosure](docs/COMING_SOON.md) — coming soon
+- 🔐 [Licensing Overview](docs/COMING_SOON.md) — coming soon
+- 📊 [Dataset Store & Catalog](docs/COMING_SOON.md) — coming soon  
 
 ## 🌿 Our Origins
 
