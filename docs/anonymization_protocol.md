@@ -1,3 +1,0 @@
-# Anonymization Protocol
-
-Identifiers removed
