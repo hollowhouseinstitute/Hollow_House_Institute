@@ -272,5 +272,5 @@ A `CITATION.cff` file will be added soon for automatic citation export.
 
 ## **📞 Contact**
 
-For collaboration, dataset access questions, citations, or academic partnerships, please open an issue or contact via GitHub.
+For collaboration, dataset access questions, citations, or academic partnerships, please email ai open an issue or contact via GitHub
 
