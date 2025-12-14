@@ -1,77 +1,36 @@
+[![License](https://img.shields.io/github/license/hollowhouseinstitute/Hollow_House_Institute)](https://github.com/hollowhouseinstitute/Hollow_House_Institute/blob/main/LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/hollowhouseinstitute/Hollow_House_Institute)](https://github.com/hollowhouseinstitute/Hollow_House_Institute)
+[![Last Commit](https://img.shields.io/github/last-commit/hollowhouseinstitute/Hollow_House_Institute/main)](https://github.com/hollowhouseinstitute/Hollow_House_Institute/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/hollowhouseinstitute/Hollow_House_Institute)](https://github.com/hollowhouseinstitute/Hollow_House_Institute/issues)
+[![Hollow House Institute](https://img.shields.io/badge/Hollow_House-Institute-black)](https://github.com/hollowhouseinstitute)
+
 # Hollow House Institute
 
 ## Canonical Repository
 
-Hollow House Institute is a research and governance organization focused on
-the development of **licensed, ethically governed relational datasets,
-frameworks, and tooling for AI–human systems**.
+Hollow House Institute is a research and governance organization focused on the development of licensed, ethically governed relational datasets, frameworks, and tooling for AI–human systems. This repository is the primary, authoritative entry point for the Institute.
 
-This repository is the **primary, authoritative entry point** for the Institute.
-All official architecture, governance standards, licensing models, and releases
-originate here.
+## Purpose & Scope
+- Maintain canonical architecture, governance standards, licensing, and releases.
+- Define institute-wide policies and reference implementations.
+- Coordinate cross-repo integration, certification, and audits.
 
-If you are new to Hollow House Institute, **start here**.
+## Repo layout
+- docs/ — governance, policies, and standards
+- legal/ — license texts and license index
+- releases/ — official release artifacts
+- examples/ — integration examples and templates
 
----
+## Getting started
+1. Review docs/01_Start_Here.md
+2. Read the Master License Suite in the legal/ folder
+3. Open issues for governance proposals or repo changes
 
-## Scope of Work
+## Contributing
+See CONTRIBUTING.md for code and policy contribution guidelines. Contributions require a brief ethics impact statement and license compliance checklist.
 
-Hollow House Institute operates at the intersection of:
+## License
+See legal/LICENSE.md and Master_License_Suite repository for institute licensing norms.
 
-- Relational and behavioral pattern research
-- Human-authored dataset design
-- AI safety, ethics, and auditability
-- Governance-first data stewardship
-- Reproducible research infrastructure
-
-The Institute’s work emphasizes **non-exploitative, consent-aware,
-and safety-bounded approaches** to human-centered AI systems.
-
----
-
-## Repository Role
-
-This repository defines:
-
-- Core system architecture
-- Governance and licensing frameworks
-- Ethical and compliance posture
-- Release structure and integrity controls
-- Canonical definitions referenced across all other repositories
-
-It does **not** store datasets directly.
-Datasets, tools, and research artifacts live in dedicated repositories
-under the `hollowhouseinstitute` organization.
-
----
-
-## Relationship to Other Repositories
-
-All other Hollow House Institute repositories:
-
-- Extend the systems defined here
-- Implement datasets, tools, or standards
-- Serve as research, experimental, or archival workstreams
-
-This repository remains the **source of truth**.
-
----
-
-## Governance & Licensing
-
-All Hollow House Institute work is released under **explicit, governed licenses**
-defined by the Institute.
-
-Usage boundaries, audit rights, and compliance expectations apply unless
-explicitly overridden in a downstream repository.
-
-Please review licensing documentation before use.
-
----
-
-## Status
-
-This repository represents the active, maintained core of the
-Hollow House Institute system.
-
-Releases are incremental, intentional, and governed.
+## Contact
+Founder: Amy Pierce Bui — amyb1665@gmail.com
