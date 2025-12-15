@@ -10,6 +10,19 @@ Hollow House Institute ecosystem.
 
 | Repository | Role | Structure |
 |-----------|------|-----------|## Research Navigation
+## System Overview Diagram (Planned)
+
+A high-level diagram illustrating the relationship between governance,
+research execution, datasets, analysis, and published papers will be
+maintained here:
+
+📊 `docs/diagrams/hollow_house_research_stack.png` *(planned)*
+
+This diagram will provide a visual trace from:
+Governance → Theory → Protocols → Data → Analysis → Papers → Archive
+
+Diagram inclusion is deferred until the research stack reaches v1.0
+structural stability.
 
 Primary research artifacts are maintained in downstream repositories:
 
