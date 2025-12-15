@@ -9,7 +9,23 @@ This repository is the canonical governance and coordination anchor for the
 Hollow House Institute ecosystem.
 
 | Repository | Role | Structure |
-|-----------|------|-----------|
+|-----------|------|-----------|## Research Navigation
+
+Primary research artifacts are maintained in downstream repositories:
+
+- **Research Papers**  
+  https://github.com/hollowhouseinstitute/hollowhouse-research-papers
+
+- **Datasets**  
+  https://github.com/hollowhouseinstitute/hollowhouse-datasets-core
+
+- **Analysis & Methods**  
+  Referenced within individual research repositories under `4_ANALYSIS`.
+
+Each research repository follows a standardized chronological structure:
+
+0_ADMIN → 1_THEORY → 2_PROTOCOLS → 3_DATASETS → 4_ANALYSIS → 5_PAPERS → 6_TOOLS → 7_APPENDIX
+
 | Hollow_House_Institute | Governance, policy, ethics, standards | Non-chronological |
 | hollowhouse-research-papers | Primary research execution | Chronological (0–7) |
 | hollowhouse-datasets-core | Curated datasets | Chronological (aligned) |
