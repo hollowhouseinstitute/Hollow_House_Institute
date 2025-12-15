@@ -3,6 +3,20 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hollowhouseinstitute/Hollow_House_Institute/main)](https://github.com/hollowhouseinstitute/Hollow_House_Institute/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/hollowhouseinstitute/Hollow_House_Institute)](https://github.com/hollowhouseinstitute/Hollow_House_Institute/issues)
 [![Hollow House Institute](https://img.shields.io/badge/Hollow_House-Institute-black)](https://github.com/hollowhouseinstitute)
+## Repository Role
+
+This repository is the canonical governance and coordination anchor for the
+Hollow House Institute ecosystem.
+
+| Repository | Role | Structure |
+|-----------|------|-----------|
+| Hollow_House_Institute | Governance, policy, ethics, standards | Non-chronological |
+| hollowhouse-research-papers | Primary research execution | Chronological (0–7) |
+| hollowhouse-datasets-core | Curated datasets | Chronological (aligned) |
+| hollowhouse-tools | Tooling & pipelines | Functional |
+| hollowhouse-standards-library | Shared standards & schemas | Functional |
+
+Research chronology is implemented **only** in downstream research repositories.
 
 # Hollow House Institute
 
