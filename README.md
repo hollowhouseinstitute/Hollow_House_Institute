@@ -7,6 +7,8 @@
 # Hollow House Institute
 
 ## Canonical Repository
+This repository serves as the canonical governance and policy anchor.
+Research chronology is implemented in downstream research repositories.
 
 Hollow House Institute is a research and governance organization focused on the development of licensed, ethically governed relational datasets, frameworks, and tooling for AI–human systems. This repository is the primary, authoritative entry point for the Institute.
 
