@@ -5,7 +5,10 @@
 [![Hollow House Institute](https://img.shields.io/badge/Hollow_House-Institute-black)](https://github.com/hollowhouseinstitute)
 > Time turns behavior into infrastructure.  
 > Behavior is the most honest data there is.
+## License
 
+This project is governed by a proprietary Hollow House Institute license.
+See LICENSE.md for details.
 ## Repository Role
 
 This repository is the canonical governance and coordination anchor for the
@@ -80,6 +83,11 @@ See CONTRIBUTING.md for code and policy contribution guidelines. Contributions r
 ## License
 See legal/LICENSE.md and Master_License_Suite repository for institute licensing norms.
 
-## Contact
-Founder: Amy Pierce Bui — hhidatasettechs@gmail.com
-data@hollowhouse.org
+────────────────────────────────────────
+Hollow House Institute
+
+Contact
+Founder: Amy Pierce Bui  
+Primary: data@hollowhouse.org  
+Technical: hhidatasettechs@gmail.com
+────────────────────────────────────────
