@@ -1,25 +1,11 @@
-HOLLOW HOUSE INSTITUTE — CORE GOVERNANCE LICENSE (HHI-CORE)
+HOLLOW HOUSE INSTITUTE — PROPRIETARY LICENSE
 
-Copyright © 2025 Hollow House Institute.
-All rights reserved.
+Copyright © 2026 Hollow House Institute.
+All Rights Reserved.
 
-This repository defines the authoritative governance, licensing architecture,
-and system definitions for Hollow House Institute.
+This repository and its contents are proprietary and confidential.
+Unauthorized use, copying, modification, training, publication,
+distribution, or derivative works are strictly prohibited.
 
-PERMITTED USE
-- Reading, referencing, and citing this repository
-- Academic and non-commercial research review
-- Internal evaluation by prospective partners or licensees
-
-RESTRICTED USE
-- Commercial exploitation without an explicit written agreement
-- Derivative dataset creation intended for resale
-- Surveillance, profiling, or coercive applications
-- Model training intended to manipulate, predict, or exploit individuals
-
-This repository does not grant rights to datasets, derivative works, or
-downstream systems unless explicitly stated in a separate license.
-
-All use is subject to Hollow House Institute governance standards.
-
-Contact: contact: hollowhouseinstitute@proton.me
+No license is granted by implication, estoppel, or otherwise.
+Use requires a separate written agreement with Hollow House Institute.
