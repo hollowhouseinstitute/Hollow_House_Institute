@@ -81,4 +81,5 @@ See CONTRIBUTING.md for code and policy contribution guidelines. Contributions r
 See legal/LICENSE.md and Master_License_Suite repository for institute licensing norms.
 
 ## Contact
-Founder: Amy Pierce Bui — amyb1665@gmail.com
+Founder: Amy Pierce Bui — hhidatasettechs@gmail.com
+data@hollowhouse.org
